@@ -1,3 +1,3 @@
 Nombre:Isaias_Ezequiel_Canul_May
 Matricula:25216370
-correo:zequielcanul@gmail.com
+Correo:zequielcanul@gmail.com
